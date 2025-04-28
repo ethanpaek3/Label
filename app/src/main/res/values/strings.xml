@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Label-IQ-App</string>
+    <string name="gluten_free">Gluten-Free</string>
+    <string name="vegan" />
+    <string name="dairy_free" />
+    <string name="nut_free" />
+    <string name="apply_filters" />
+    <string name="filters_will_appear_here">Filters will appear here</string>
+    <string name="open_filters">Open Filters</string>
+</resources>
